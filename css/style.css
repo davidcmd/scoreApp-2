@@ -1,0 +1,14 @@
+* {
+	text-align: left;
+}
+
+article > section {
+	display:none;
+}
+article > section.active {
+	display:block;
+}
+
+table {
+	width: 600px;
+}
